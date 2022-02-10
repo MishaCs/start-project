@@ -19,7 +19,7 @@
     "gulp-sass": "^4.0.2",
     "gulp-svgstore": "^7.0.1",
     "gulp-terser": "^1.2.0",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "browser-sync": "^2.26.7",
